@@ -9,3 +9,10 @@
 5.  Сохранение состояния приложения с помощью Local Storage
 
   [Результат проекта](https://ildarmjs.github.io/test-drive/tech_tracker/)
+
+### В ходе проекта выполнялись домашние задания 
+* https://ildarmjs.github.io/test-drive/hw/#1
+* https://ildarmjs.github.io/test-drive/hw/#2
+* https://ildarmjs.github.io/test-drive/hw/#3
+* https://ildarmjs.github.io/test-drive/hw/#4
+* https://ildarmjs.github.io/test-drive/hw/#5
