@@ -10,7 +10,7 @@
 
   [Результат проекта](https://ildarmjs.github.io/test-drive/tech_tracker/)
 
-### В ходе проекта выполнялись домашние задания 
+### Home work
 * https://ildarmjs.github.io/test-drive/hw/#1/
 * https://ildarmjs.github.io/test-drive/hw/#2/
 * https://ildarmjs.github.io/test-drive/hw/#3/
