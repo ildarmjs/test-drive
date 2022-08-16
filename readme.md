@@ -8,4 +8,4 @@
 4.  Валидация формы
 5.  Сохранение состояния приложения с помощью Local Storage
 
-[Приложение здесь] (https://ildarmjs.github.io/test-drive/tech_tracker/)
+  [Приложение здесь](https://ildarmjs.github.io/test-drive/tech_tracker/)
